@@ -1,6 +1,6 @@
 import user_info from "../../data/user_info.js";
 import { IoIosArrowForward } from "react-icons/io";
-import Resume from '../../../public/Farheen-latest-resume.pdf'
+import Resume from '../../assets/Farheen-latest-resume.pdf'
 
 
 function Hero() {
