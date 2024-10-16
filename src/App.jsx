@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Homepage from './pages/Homepage'
 import NotFound from './pages/404'
+import Blogs from './pages/blogs'
 import { useEffect, useState } from 'react';
 import { createContext } from 'react';
 import "preline/preline";
@@ -27,6 +28,7 @@ function App() {
 				<Routes>
 					<Route path="/" element={<Homepage />} />
 					<Route path="*" element={<NotFound />} />
+					<Route path="/blogs" element={<Blogs />} />
 				</Routes>
 			</BrowserRouter>
 		</AppContext.Provider>

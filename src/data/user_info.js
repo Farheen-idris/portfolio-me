@@ -13,7 +13,7 @@ const info = {
 		github: "https://github.com/Farheen-idris",
 		linkedin: "https://www.linkedin.com/in/farheen-idris/",
 		instagram: "https://www.instagram.com/farheenidris__/",
-		facebook: "https://www.facebook.com/farheen.idris.7/",
+		facebook: "https://www.facebook.com/farheen.idris.7/"
     },
 
     // ============ PROJECTS ============
@@ -22,21 +22,21 @@ const info = {
 			title: "NFT Marketplace",
 			description: "The NFT marketplace enables users to create, buy, sell, and store non-fungible tokens (NFTs), allowing transactions in cryptocurrency.Developed the project to operate on both Klaytn and Ethereum networks, ensuringcompatibility with multiple blockchain ecosystems",
             technologies: "ReactJs, HTML, CSS, NodeJs, Blockchain, react-redux",
-            link: "http://test.hintmembership.com/"
+            // link: "http://test.hintmembership.com/"
 		},
 
         {
-			title: "NXZSOUND 1.0",
-			description: "NXZSOUND 1.0, a comprehensive music application enabling users to seamlessly upload songs and videos via both the frontend and admin panel.",
+			title: "Music Application",
+			description: "It is a comprehensive music application enabling users to seamlessly upload songs and videos via both the frontend and admin panel.",
 			technologies: "ReactJs,HTML, CSS, Context API, MaterialUI",
-            link: "https://app.nxzsound.com/"
+            // link: "https://app.nxzsound.com/"
 		},
 
         {
 			title: "AirKYC™",
 			description: "AirKYC™, a face recognition-based eKYC solution aimed at digitizing the KYC process, streamlining KYC maintenance, and ensuring compliance with regulatory requirements. Worked extensively on the HR and Admin module of the platform, enhancing functionality and user experience",
 			technologies: "ReactJs, Material-UI, HTML, CSS3, Python, react-redux",
-            link: "https://www.airface.in/"
+            // link: "https://www.airface.in/"
 		}
     ],
 

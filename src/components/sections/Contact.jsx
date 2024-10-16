@@ -17,7 +17,7 @@ function Contact() {
 
       {/* =========== DESCCRIPTION =========== */}
       <p className="mt-8 leading-7 text-base text-zinc-600 dark:text-zinc-300 font-light">
-        <div dangerouslySetInnerHTML={{ __html: user_info.contact.description}}/>
+        <div dangerouslySetInnerHTML={{ __html: user_info.contact.description }} />
       </p>
 
       {/* =========== LINKS =========== */}
@@ -31,8 +31,8 @@ function Contact() {
           <span className="self-center">Follow on Facebook</span>
         </a>
 
-       
-        
+
+
         {/* =========== INSTAGRAM =========== */}
         <a
           href={user_info.socials.instagram}
@@ -50,6 +50,16 @@ function Contact() {
           <FaLinkedin className="self-center text-lg text-red-800 dark:text-red-500" />
           <span className="self-center">Follow on Linkedin</span>
         </a>
+
+        {/* =========== BLOG =========== */}
+
+        {/* <a
+          href="/blogs"
+          className="flex gap-4 text-zinc-600 dark:text-zinc-300 hover:dark:text-zinc-300 hover:text-zinc-700 transition-all duration-300 mt-4"
+        >
+          <FaLinkedin className="self-center text-lg text-red-800 dark:text-red-500" />
+          <span className="self-center">Checkout my Blog</span>
+        </a> */}
       </div>
 
       <hr className="mt-6 w-72 border dark:border-zinc-800" />
