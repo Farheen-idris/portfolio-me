@@ -53,13 +53,13 @@ function Contact() {
 
         {/* =========== BLOG =========== */}
 
-        {/* <a
+        <a
           href="/blogs"
           className="flex gap-4 text-zinc-600 dark:text-zinc-300 hover:dark:text-zinc-300 hover:text-zinc-700 transition-all duration-300 mt-4"
         >
           <FaLinkedin className="self-center text-lg text-red-800 dark:text-red-500" />
           <span className="self-center">Checkout my Blog</span>
-        </a> */}
+        </a>
       </div>
 
       <hr className="mt-6 w-72 border dark:border-zinc-800" />
