@@ -67,7 +67,7 @@ const info = {
         {
             position: "Software Engineer",
             company: "Metafic",
-            duration: "July 2022 - Present",
+            duration: "July 2022 - November 2024",
             image: "metafic.png",
             descriptions: [
                 "Worked extensively with class and functional components, utilizing Context APIs to enhance application functionality and maintain code efficiency.",
@@ -97,7 +97,7 @@ const info = {
         {
             position: "Executive Technology",
             company: "ABSTech Services",
-            duration: "January 2021 - April 2021",
+            duration: "January 2020 - April 2021",
             image: "abs.jpeg",
             descriptions: [
                 "Led group discussions with managers and team members to devise design, implementation, and testing strategies for assigned tasks.",
